@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Brackitly logo">
+  <defs>
+    <linearGradient id="g" x1="20" y1="20" x2="220" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.55" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="204" height="204" rx="48" fill="#111827"/>
+  <path d="M82 61H61v118h21M158 61h21v118h-21" fill="none" stroke="url(#g)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M103 76h34c22 0 35 11 35 29 0 12-6 21-18 26 15 4 24 15 24 32 0 22-16 35-43 35h-32V76Zm30 48c12 0 19-5 19-15s-7-15-19-15h-12v30h12Zm3 56c14 0 22-6 22-18s-8-18-22-18h-15v36h15Z" fill="white"/>
+</svg>
